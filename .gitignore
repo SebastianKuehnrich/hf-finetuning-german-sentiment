@@ -1,0 +1,20 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Trained model weights (too large for GitHub)
+deutsches_model/
+diamond_final_model/
+diamond_model/
+german_finetuned/
+imdb_finetuned/
+mein_deutsches_model/
+mein_imdb_model/
+
+# OS
+Thumbs.db
+.DS_Store
